@@ -1,4 +1,4 @@
 FROM almalinux:8
 LABEL COURSE=Devops\
      HOST=Sharada\
-     DURATION=100 days
+     DURATION=100days
